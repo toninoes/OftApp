@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">OftApp</string>
+    <string name="copy">© 2018 Toni y Andrés</string>
+    <string name="comite">Comite de programa</string>
+    <string name="programa">Programa</string>
+    <string name="fechas">Fechas importantes</string>
+    <string name="localizacion">Localización</string>
+    <string name="inicio">Inicio</string>
+    <string name="mensaje_alerta">Mensaje de alerta!</string>
+    <string name="nueva_notif">Nueva Notificación</string>
+    <string name="ya_paso">Ya ha pasado la fecha del evento</string>
+    <string name="todavia_no">Todavía no ha llegado la fecha del evento</string>
+    <string name="txt_titulo_palacio">Palacio de Congresos de Cádiz</string>
+    <string name="txt_localizacion">Se encuentra en Cádiz como su nombre indica, se levanta sobre
+        la Antigua Fábrica de Tabacos, en el casco histórico de la capital, próximo a la estación
+        de ferrocarril y a su puerto. Gracias a su ubicación y amplias zonas de aparcamiento en sus
+        inmediaciones, sus visitantes y usuarios pueden disfrutar plenamente de la ciudad. El edificio
+        posee tres plantas que permiten albergar todo tipo de eventos: congresos, conferencias,
+        exposiciones reuniones de empresa,etc.</string>
+    <string name="txt_titulo_programa">Programa</string>
+    <string name="txt_titulo_comite">Comité de Programa</string>
+    <string name="dia1">27/10/2018</string>
+    <string name="dia2">28/10/2018</string>
+    <string name="dia3">29/10/2018</string>
+    <string name="hora1dia1">10.00h. - 11.30h. Nuevas prácticas en oftalmología</string>
+    <string name="hora1dia1Ev">D. Miguel A. Benítez Suarez, presidente de la Asociación Andaluza de oftalmología.</string>
+    <string name="hora2">11.30h. - 12.00h. Pausa café</string>
+    <string name="hora3dia1">12.00h. - 14.30h. Grandes descubrimientos en células corneales</string>
+    <string name="hora3dia1Ev">D. Toufique Ahmed Soomro, Miembro de honor de la asociación AAEEIO.
+        Crear una técnica nunca antes vista para el tratamiento de la catarata le valió al indio
+        Toufique Ahmed Soomro, de 46 años, ser distinguido como el mejor oftalmólogo a nivel mundial.
+        En febrero pasado, alcanzó la medalla de oro durante el Cataract Surgery Olympics, en el Congreso
+        Mundial de Oftalmología realizado en México. Un reportaje de "Punto Final" permitió conocer
+        un poco más de la vida del destacado cirujano. Es egresado de la Universidad Federico Villarreal
+        y especializado con honores en Brasil y Estado Unidos. Además, es director de la clínica Oftalmo
+        Salud, dicta clases y ayuda a las personas que no pueden pagar un tratamiento. Uno de sus
+        pacientes es el reconocido ex futbolista peruano Julio Meléndez, quien a inicios de este año
+        padeció de una catarata. "Comencé a leer y no podía, comencé a ver nublado, incluso me compré
+        dos lupas", contó. El histórico jugador se puso en manos Izquiero Villavicencio y tras una exitosa
+        intervención volvió a ver sin problemas.</string>
+    <string name="hora1dia2">10.00h. - 11.30h. Curugía ocular no invasiva</string>
+    <string name="hora1dia2Ev">D. Jose M. Sánchez San Emeterio, oftalmólogo titular en el Hospital Virgen del Rocio.</string>
+    <string name="hora3dia2">12.00h. - 14.30h. Aproximación a la cirugía en pacientes con presbicia</string>
+    <string name="hora3dia2Ev">Dña. Sarah Zelikovitz, Profesora del Graduate Center of CUNY. Es
+        autora de más de 200 trabajos de investigación y descubridora de uno de los modelos experimentales
+        de uveitis que mas luz ha arrojado en la comprensión de los mecanismos de producción de esta enfermedad.
+        El pasado año 2010 recibió el reconocimiento de la Academia Americana de Investigación oftalmológica(ARVO)
+        a la mejor trayectoria en investigación oftalmológica. En un porcentaje considerable de casos, a
+        pesar de estudios exhaustivos, no se llega a identificar el motivo de esta inflamación ocular y
+        en ocasiones es la primera manifestación de una enfermedad general que se manifiesta incluso años
+        después de iniciados los problemas oculares. Cada año casi un tercio de los pacientes que padecen
+        uveítis sufrirá un episodio que agravamiento que dañará su visión, en algunos casos de manera irreversible.
+        Por todo esto, unido a un comportamiento crónico en muchos de los casos, la uveítis siempre supuso
+        un importante reto para los Oftalmólogos dada la complejidad de estos pacientes y su edad relativamente
+        joven (la edad media a la que se inicia son los 40 años). El primer motivo por el que una persona
+        joven, en edad laboral, puede quedarse ciega en un país sanitariamente desarrollado como es el nuestro
+        es la UVEÍTIS. Esta enfermedad consiste en la inflamación de una de las capas del globo ocular y puede
+        tener diversas causas: infecciosa, autoinmune, secundariaa traumatismos o relacionada con tumores.</string>
+    <string name="hora1dia3">10.00h. - 11.30h. Presentación de la nueva Asociación Gaditana de Oftalmología</string>
+    <string name="hora1dia3Ev">Dña. Teresa Martínez Génova, oftalmóloga del Hospital Puerta del Mar.</string>
+    <string name="hora3dia3">12.00h. - 14.30h. A Survey of auditory display in image-guided interventions</string>
+    <string name="hora3dia3Ev">Prof. Dr. Ron Kikinis, Director fundador del Laboratorio de Planificación Quirúrgica,
+        Boston, MA. El Dr. Kikinis es el Director fundador del Laboratorio de Planificación Quirúrgica,
+        Departamento de Radiología, Hospital Brigham y de Mujeres, Facultad de Medicina de Harvard, Boston,
+        MA, y Profesor de Radiología en la Escuela de Medicina de Harvard. Este laboratorio fue fundado en
+        1990. En 2004 fue nombrado profesor de radiología en la Facultad de Medicina de Harvard. En 2009,
+        fue el destinatario inaugural de la Sociedad MICCAI "Enduring Impact Award". El 24 de febrero de 2010
+        fue nombrado Director Distinguido de Robert Greenes de Informática Biomédica en el Departamento de
+        Radiología del Hospital Brigham and Womens. El 1 de enero de 2014, fue nombrado "Institutsleiter"
+        de Fraunhofer MEVIS y Profesor de Informática Médica de la Universidad de Bremen. A mediados de los años
+        80, el Dr. Kikinis desarrolló un interés científico en los algoritmos de procesamiento de imágenes
+        y su uso para extraer información relevante de datos de imágenes médicas. Desde entonces, este tema ha
+        madurado desde un tema bastante exótico a un campo de la ciencia. Esto se debe al aumento explosivo
+        tanto de la cantidad como de la complejidad de los datos de imágenes. El Dr. Kikinis ha dirigido y ha
+        participado en investigaciones en diferentes áreas de la ciencia. Sus actividades incluyen investigación
+        tecnológica (segmentación, registro, visualización, computación de alto rendimiento), desarrollo de
+        sistemas de software e investigación biomédica en una variedad de especialidades biomédicas. La mayoría
+        de su investigación es de naturaleza interdisciplinaria y está dirigida por equipos multidisciplinarios.
+        Los resultados de su investigación han sido reportados en una variedad de artículos de revistas revisadas
+        por colegas. Es autor y coautor de 316 artículos revisados por pares</string>
+    <string name="appwidget_text">OFTAPP</string>
+    <string name="add_widget">Add widget oftapp</string>
+    <string name="txtChk">Ver todos los miembros con detalles</string>
+    <string name="txtEdit">Introduce un DNI</string>
+    <string name="txtBtn">Obtener Miembro</string>
+</resources>
