@@ -1,7 +1,5 @@
 # OftApp
 
-# Android App - Programación en Internet 2017 - Universidad de Cádiz
-
 Implementación de una aplicación Android que invoque servicios web Rest de OftApp
 
 
